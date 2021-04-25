@@ -13,3 +13,6 @@
 
  ## WEBSITE
 * https://jsieler.github.io/1.HTML-CSS-Challenge-Code-Refactor/
+* https://github.com/Jsieler/1.HTML-CSS-Challenge-Code-Refactor
+<img src="./assets/images/Screen Shot 2021-04-24 at 9.51.56 PM.png" alt="" />
+<img src="./assets/images/Screen Shot 2021-04-24 at 9.57.32 PM.png" alt="" />
