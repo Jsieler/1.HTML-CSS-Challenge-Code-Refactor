@@ -14,4 +14,4 @@
  ## WEBSITE
 * https://jsieler.github.io/1.HTML-CSS-Challenge-Code-Refactor/
 * https://github.com/Jsieler/1.HTML-CSS-Challenge-Code-Refactor
-https://user-images.githubusercontent.com/80868375/115980586-1c3fb700-a54b-11eb-9d17-d1e7726674d7.png
+![Screen Shot 2021-04-24 at 9 51 56 PM](https://user-images.githubusercontent.com/80868375/115980586-1c3fb700-a54b-11eb-9d17-d1e7726674d7.png)
